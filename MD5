@@ -1,0 +1,12 @@
+39fe699c23892686e3c37fc16d8f65f1 *DESCRIPTION
+0a1e4c0d3f5de17815fe173aabb4569c *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+4848b58f1f989a3c05abed935c964655 *R/ExampleData.R
+2abc850339dd492785c49835b162069b *R/ccd_analysis.R
+910660e58df9e9bb16c3281080eb6f0f *R/design_ccd.R
+a288ea6eeedbc4e03d126eaa1994b888 *R/rsurface.R
+7073b30b14fa4044c0eff08731daddb8 *data/ExampleData.RData
+77cc9f3cc5150e7def41e0c655dfc5db *man/ExampleData.Rd
+cf165e3010901e9ae3c62498d93e59d5 *man/ccd_analysis.Rd
+0094d8460e7ecf990eb256e215d911b7 *man/design_ccd.Rd
+36044990a6e1666221d141efe6a8e0a8 *man/rsurface.Rd
