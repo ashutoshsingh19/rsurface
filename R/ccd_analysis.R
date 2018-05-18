@@ -2,7 +2,9 @@
 #'
 #' @description For the simultaneous production of response surface analysis output by
 #'    \pkg{rsm} used in combination with \pkg{graphics} in the second-order
-#'    polynomial approach. The output includes regression model fitting and plot of the
+#'    polynomial approach. The predictor variables must be named \dQuote{Factor1},
+#'    \dQuote{Factor2}, etc., while the response variable must be named \dQuote{Response}. The
+#'    output includes regression model fitting and plot of the
 #'    fitted response surface.
 #'
 #' @param x the matrix of experimental data that contains columns with the uncoded levels
